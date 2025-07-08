@@ -22,3 +22,15 @@ This project includes comprehensive exploratory data analysis of the vehicles da
 1. Navigate to the notebooks directory
 2. Open `EDA.ipynb` in Jupyter Notebook or VS Code
 3. Run all cells to reproduce the analysis
+
+### Methods and Libraries Used
+- Python 3.x  
+- [Streamlit](https://streamlit.io/) to build an interactive web app with UI components such as headers and checkboxes  
+- [Pandas](https://pandas.pydata.org/) for data loading and manipulation  
+- [Plotly Express](https://plotly.com/python/plotly-express/) for creating interactive visualizations  
+
+### How to Run Locally
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name
