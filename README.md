@@ -4,7 +4,8 @@ This is the repo for the Final Project of Sprint 4 in the TripleTen Data Science
 ## Exploratory Data Analysis (EDA)
 
 ### Overview
-This project includes comprehensive exploratory data analysis of the vehicles dataset.
+This project includes comprehensive exploratory data analysis of the vehicles dataset.  
+It also features an interactive tool that allows users to simulate random events related to vehicle pricing and conditions, helping to understand variability and uncertainty in the data.
 
 ### Files
 - `notebooks/EDA.ipynb` - Jupyter notebook containing data exploration and visualizations
