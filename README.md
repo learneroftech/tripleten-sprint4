@@ -30,7 +30,7 @@ This project includes comprehensive exploratory data analysis of the vehicles da
 - [Plotly Express](https://plotly.com/python/plotly-express/) for creating interactive visualizations  
 
 ### How to Run Locally
-1. Clone this repository:  
+- Clone this repository:  
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
