@@ -19,16 +19,15 @@ It also features an interactive tool that allows users to simulate random events
   - Price vs odometer reading scatterplot
   - Price vs model year by condition scatterplot
 
-### How to Run
-1. Navigate to the notebooks directory
-2. Open `EDA.ipynb` in Jupyter Notebook or VS Code
-3. Run all cells to reproduce the analysis
-
 ### Methods and Libraries Used
 - Python 3.x  
 - [Streamlit](https://streamlit.io/) to build an interactive web app with UI components such as headers and checkboxes  
 - [Pandas](https://pandas.pydata.org/) for data loading and manipulation  
 - [Plotly Express](https://plotly.com/python/plotly-express/) for creating interactive visualizations  
+
+### 🌐 Live Demo
+Check out the deployed app here:  
+🔗 [https://tripleten-sprint4-ww34.onrender.com/](https://tripleten-sprint4-ww34.onrender.com/)
 
 ### How to Run Locally
 - Clone this repository:  
